@@ -1,10 +1,8 @@
- # Vitali Santalau 
- web developer from Belarus. 
-  
- ***
- you can rich me by:
+![VITALI SANTALAU](https://user-images.githubusercontent.com/48533255/131414472-1806bf17-5421-4da8-b494-ef68243296f4.gif)
+ ### you can rich me by:
  
 <v.santalau@gmail.com>
 
-![code](https://user-images.githubusercontent.com/48533255/131407219-142a933d-33ec-481d-a8cb-2eee5f85f5a4.gif)
+
+
 
