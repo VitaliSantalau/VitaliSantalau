@@ -1,4 +1,5 @@
-![banner_cut-photo ru](https://user-images.githubusercontent.com/48533255/131569293-72d3a028-9576-4b99-ba0c-b202e945ef4d.png)
+![banner](https://user-images.githubusercontent.com/48533255/131570162-1a4bb528-8320-4038-8d8d-a870cc8756a2.png)
+
 
 
 ### Web developer from Belarus. Always open-minded to new challenges and knowledges. Currently, I keep my way with javascript, and related technologies.
