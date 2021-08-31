@@ -24,7 +24,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-#### follow:
+#### take a look at:
 <a href="https://vitalisantalau.github.io/rsschool-cv/">![OpenCV](https://img.shields.io/badge/cv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)</a>
 ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
