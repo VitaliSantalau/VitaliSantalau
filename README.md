@@ -1,4 +1,5 @@
-![VITALI SANTALAU](https://user-images.githubusercontent.com/48533255/131414472-1806bf17-5421-4da8-b494-ef68243296f4.gif)
+![banner](https://user-images.githubusercontent.com/48533255/131462061-6397ab20-577e-440d-a239-9953b34d417c.jpeg)
+
  ### you can rich me by:
  
 <v.santalau@gmail.com>
