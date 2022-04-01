@@ -3,7 +3,7 @@
 ### Always open-minded to new challenges and knowledges. Currently, I keep my way with javascript, and related technologies.
 ***
 
- #### you can rich me by:
+ #### you can contact me at:
  ![Gmail](https://img.shields.io/badge/v.santalau@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
  <a href="https://www.linkedin.com/in/vitali-santalau-3334b91ba">![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://join.skype.com/invite/JGZabnC6xj0i">![Skype](https://img.shields.io/badge/skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)</a>
               
